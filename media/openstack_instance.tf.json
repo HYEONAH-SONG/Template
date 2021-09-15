@@ -2,12 +2,12 @@
 	"resource": {
 		"openstack_compute_instance_v2": {
 			"instance_1": {
-				"name": "server-1",
-				"image_id": "ad091b52-742f-469e-8f3c-fd81cadf0743",
+				"name": "openstack instance",
+				"image_name": "centos 7",
 				"network": {
-					"name": "my_network"
+					"name": "public"
 				},
-				"flavor_name": "m1.small"
+				"flavor_name": "m1.nano"
 			}
 		}
 	}

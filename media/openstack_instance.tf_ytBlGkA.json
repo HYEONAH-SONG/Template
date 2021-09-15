@@ -1,0 +1,14 @@
+{
+	"resource": {
+		"openstack_compute_instance_v2": {
+			"instance_1": {
+				"name": "openstack instance",
+				"image_name": "centos 7",
+				"network": {
+					"name": "public"
+				},
+				"flavor_name": "m1.nano"
+			}
+		}
+	}
+}
