@@ -26,13 +26,13 @@ provider "openstack" {
   region      = "RegionOne"
 
   endpoint_overrides = {
-    "network" = "http://164.125.70.22:9696/"
-    "compute" = "http://164.125.70.22/compute/v2.1"
-    "volume" = "http://164.125.70.22/volume/v3/4b3afecefc7e4beaa1039d76e5e677d5"
-    "volumev2" = "http://164.125.70.22/volume/v2/4b3afecefc7e4beaa1039d76e5e677d5"
-    "volumev3" = "http://164.125.70.22/volume/v2/4b3afecefc7e4beaa1039d76e5e677d5"
-    "image" = "http://164.125.70.22/image"
-    "identity" = "http://164.125.70.22/identity"
+    "network" = "http://164.125.70.22:9696/v2.0/"
+    "compute" = "http://164.125.70.22/compute/v2.1/"
+    "volume" = "http://164.125.70.22/volume/v3/4b3afecefc7e4beaa1039d76e5e677d5/"
+    "volumev2" = "http://164.125.70.22/volume/v2/4b3afecefc7e4beaa1039d76e5e677d5/"
+    "volumev3" = "http://164.125.70.22/volume/v3/4b3afecefc7e4beaa1039d76e5e677d5/"
+    "image" = "http://164.125.70.22/image/"
+    "identity" = "http://164.125.70.22/identity/"
   }
 }
 

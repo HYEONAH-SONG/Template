@@ -24,6 +24,7 @@ provider "registry.terraform.io/orange-cloudfoundry/cloudstack" {
   constraints = "0.4.0"
   hashes = [
     "h1:2BXoyBtVQ8AQwMPU6bfSjXeHYqgMv3qmMrA2UvpWriY=",
+    "h1:SDW/D+s8XL4rX2DgGBQJaUpeUN74mhJXDEjmPainJKE=",
     "h1:l5lAMFAX6C3pFIC+cH5/toYV/T0gX8nHqL2sySyP0xA=",
     "zh:01819d096350cd0b857ca7a5975c2a7155ec747a543f94d98da3ddb9d8098ade",
     "zh:035158a10a643c6de075fca4642a46db9c802d4fd6668ba949e6f589854ac0f8",
@@ -49,6 +50,7 @@ provider "registry.terraform.io/terraform-provider-openstack/openstack" {
   hashes = [
     "h1:1QwVWBH4Boye5QDpB3YG/WE2grF3m9c3afX3tcGv/A8=",
     "h1:oLlkZimcl8lcyVMDenOXGYWDMJX8xUqL9ZQWudAfsmk=",
+    "h1:svxh3rLbMWT0+xvSMpTuM9gosIupI2UUBp8kLMBsX4Y=",
     "zh:08af4c5b2136a95cd16789c5cb4945ad288d02b91d06018c74ed14b97b335857",
     "zh:2c99eaf2a86ae1ab8186226c1be5395d45a91d93f4e65cc8731afbc736aea4e9",
     "zh:3f0226ce9737e7e47822d009419a78477d5286bf30896b85cbe3af0cf9ff7c90",
