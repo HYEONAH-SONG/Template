@@ -49,7 +49,7 @@
 
 - ### 멀티 클라우드(Cloudstack, Openstack) 파라미터 비교
 
-  - **R** : Required, **O **: Optional, **NP** : Not present
+  - **R** : Required, **O**: Optional, **NP** : Not present
 
 1. #### Create a Disk volume(볼륨 생성)
 
