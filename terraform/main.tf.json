@@ -3,7 +3,7 @@
 		"openstack_compute_instance_v2": {
 			"instance_1": {
 				"name": "openstack instance",
-				"image_name": "centos 7",
+				"image_id": "da09f98f-206f-4873-81be-1842df7019cd",
 				"network": {
 					"name": "public"
 				},
